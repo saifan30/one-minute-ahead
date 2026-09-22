@@ -1,0 +1,7 @@
+{
+  "name": "One Minute Ahead",
+  "description": "A sci-fi temporal puzzle game featuring 60-second deterministic foresight, multi-sector security chambers, and temporal lock synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
